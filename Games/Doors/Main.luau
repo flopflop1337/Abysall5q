@@ -95,9 +95,9 @@ local Entities = {
 		Alias = "A-60",
 		NotifyMessage = { Title = "Entity 'A-60' has spawned.", Body = "Find a hiding spot." }
 	},
-	["A120"] = {
+	["Scribbles"] = {
 		Alias = "A-120",
-		NotifyMessage = { Title = "Entity 'A-120' has spawned.", Body = "Find a hiding spot." }
+		NotifyMessage = { Title = "Entity 'Scribbles' has spawned.", Body = "Find a hiding spot." }
 	},
 	["GloombatSwarm"] = {
 		Alias = "Gloombat Swarm",
