@@ -91,7 +91,7 @@ local Entities = {
 		Alias = "Groundskeeper",
 		NotifyMessage = { Title = "Entity 'Groundskeeper' has spawned.", Body = "Avoid stepping on the grass." }
 	},
-	["A60"] = {
+	["BashMoving"] = {
 		Alias = "A-60",
 		NotifyMessage = { Title = "Entity 'A-60' has spawned.", Body = "Find a hiding spot." }
 	},
